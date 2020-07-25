@@ -1,6 +1,4 @@
 # Flash Chat for Android
-Learn to make Android Apps with [The App Brewery](https://www.appbrewery.co) 📱 - Flash Chat
 
-I am following London App Brewery tutorials to learn Android development and this app allows you to chat with a group using Firebase Backend services.
-
-Copyright © The App Brewery
+The App is based on messenger platform which uses Cloud Storage as a backend service 
+The App is created On Android Studio in which Java is used as a programming language
