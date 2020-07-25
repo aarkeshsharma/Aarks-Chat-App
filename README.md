@@ -18,7 +18,7 @@ Online status (presence) and real-time profile update
 Clone the Repository (Recommended)
 If you have git installed, this is a recommended approach as you can quickly sync and stay up to date with the latest version. This is also a preferred way of downloading the code if you decide to contribute to the project.
 
-$ git clone https://github.com/mesibo/messenger-app-android.git
+$ git clone https://github.com/aarkeshsharma/Aarks-FlashChat-App.git
 Download the code as a zip file
 
 # Stay Up-to-date
