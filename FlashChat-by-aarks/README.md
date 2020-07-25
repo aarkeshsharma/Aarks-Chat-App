@@ -48,7 +48,7 @@ That's it, you should see the welcome screen like below.
 Register or Login using email-id. You can even start using the app you've just built to communicate with your family and friends.
 
 # Key SDKs user in this project
-These apps use following Mesibo SDKs.
+These apps use following SDKs.
 
 Android Studio SDK
 
