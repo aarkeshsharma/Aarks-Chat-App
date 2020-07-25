@@ -57,3 +57,11 @@ Messaging UI Module
 These apps also use following third party libraries/services.
 
 Google Firebase Account creation & Authentication
+
+# Author
+
+aarkeshsharma
+
+# License
+
+Copyright (c) 2020-present, Aarkesh Sharma aarkeshsharma@gmail.com
