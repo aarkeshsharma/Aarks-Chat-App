@@ -1,6 +1,6 @@
 # Aark's Flashchat for Android
 
-![images](FlashChat-by-aarks/images/Home page.jpeg)
+![images](images/Home page.jpeg)
 
 
 
