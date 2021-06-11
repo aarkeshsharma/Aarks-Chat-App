@@ -1,8 +1,8 @@
 # Aark's Flashchat for Android
 
-![images](images/Home page.jpeg)
+<img src="https://user-images.githubusercontent.com/60655862/121650609-59d6b000-cab7-11eb-894d-1e47d6871c29.jpeg" width="250">|<img src="https://user-images.githubusercontent.com/60655862/121650695-707d0700-cab7-11eb-862c-35329405d29d.jpeg" width="250">|<img src="https://user-images.githubusercontent.com/60655862/121651492-5132a980-cab8-11eb-9b3b-38f45eb1902f.jpeg" width="250">
 
-
+                    
 
 The App is based on messenger platform which uses Cloud Storage as a backend service
 
